@@ -16,9 +16,6 @@ Each record contains:
 - `categorias_fav_low` – list of favorite product categories (e.g., ELECTRÓNICA, LIBROS, DEPORTE)  
 - `gasto_por_categoria` – spending amounts per category  
 
-Example record:
-```python
-['32415', ' mike_reed ', 32.0, ['ELECTRÓNICA', 'DEPORTE', 'LIBROS'], [894, 213, 173]]
 ## ⚙️ Methodology  
 
 ### Part 1 – Data Preparation (Sprint 1)  
