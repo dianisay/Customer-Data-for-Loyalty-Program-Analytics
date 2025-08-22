@@ -18,7 +18,7 @@ Each record contains:
 
 ## ⚙️ Methodology  
 
-### Part 1 – Data Preparation (Sprint 1)  
+### Part 1 – Data Preparation 
 - Trimmed whitespace and standardized customer names  
 - Normalized case formatting  
 - Validated and corrected inconsistent ages  
@@ -27,7 +27,7 @@ Each record contains:
 - Corrected typos and other data inconsistencies  
 - Prepared structured dataset for further analysis  
 
-### Part 2 – Customer Segmentation (Sprint 2)  
+### Part 2 – Customer Segmentation
 - Explored customer demographics and purchase behavior  
 - Analyzed spending patterns across categories  
 - Segmented customers by age group, product preferences, and total spending  
@@ -56,14 +56,6 @@ This project demonstrates:
 - Python  
 - Pandas (for segmentation)  
 - Jupyter Notebook  
-
----
-
-## 📈 Next Steps  
-- Perform deeper segmentation analysis on cleaned dataset  
-- Calculate advanced KPIs (e.g., lifetime value, category profitability)  
-- Use insights to optimize loyalty program campaigns  
-
 ---
 
 ## 🤝 Contact  
